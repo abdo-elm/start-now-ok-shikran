@@ -1,0 +1,13 @@
+.col {
+	background-color: grey;
+	border-color: 2px solid black;
+	margin-top: 30px;
+}
+
+.btn-warning {
+       background-color: red;
+}
+
+.btn-warning:hover {
+	background-color: black;
+}
